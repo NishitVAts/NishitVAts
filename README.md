@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NishitVAts
 - 👀 I’m interested in helping the community by doing some thing interesting
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on NOTHING new app
+- 💞️ I’m looking to collaborate on Artificial intelligence projects 
 - 📫 How to reach me by emailing me at nishitvats@icloud.com
 
 <!---
